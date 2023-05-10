@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "66183845383",
+    "project_id": "flash-chat-a9625",
+    "storage_bucket": "flash-chat-a9625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66183845383:android:c199bf942291309f1dfca2",
+        "android_client_info": {
+          "package_name": "com.AnweshaDutta.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66183845383-ou7ru07u6j8m0gn0pbrm9fr4l6e00apg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBktoE9WRkd4ZR2NXNoMqgsTxXIIN9DoOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66183845383-ou7ru07u6j8m0gn0pbrm9fr4l6e00apg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66183845383-83f28lbukqko7rgk17u7cf9od8l9805q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AnweshaDutta.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
